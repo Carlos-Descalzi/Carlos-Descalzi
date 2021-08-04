@@ -1,5 +1,6 @@
 ### Hi there 🍺🍺🍺
 
+This is my stuff, basically a collection of personal (and mostly unfinished) projects I collected for years in different technologies.
 
 
 
